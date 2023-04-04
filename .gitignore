@@ -2,3 +2,4 @@
 *.php
 *.c
 
+!eight.php
