@@ -1,5 +1,5 @@
-*.py
-*.php
-*.c
+.py
+.php
+.c
 
 !eight.php
