@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 *py
 *php
 *c
+=======
+.py
+.php
+.c
+>>>>>>> parent of d8e7b25 (modified the gitignore with c)
 
 !eight.php
